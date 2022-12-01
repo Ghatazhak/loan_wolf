@@ -1,2 +1,2 @@
-# JsSiteTemplate
-Site Template for JS Projects
+# Loan Wolf
+A loan Amortization calculator written in JavaScript.
