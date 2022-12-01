@@ -55,6 +55,13 @@ footer .social>a:hover {
     color: #000;
 }
 
+.logoFont {
+    font-family: 'Luckiest Guy', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Odibee Sans', cursive;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
 .checklist > li i {
     color: var(--secondary-color);
 }
